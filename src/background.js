@@ -1,4 +1,4 @@
-const MessageBox = require('../demo/MessageBox')
+// const MessageBox = require('../demo/MessageBox')
 
 import { app, protocol, BrowserWindow, Menu, MenuItem, globalShortcut } from "electron";
 import { createProtocol, installVueDevtools } from "vue-cli-plugin-electron-builder/lib";
